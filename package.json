@@ -1,0 +1,29 @@
+{
+  "name": "langchain",
+  "description": "AI Chat-bot using LangChain and SupaBase",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janvierjr/LangChain.git"
+  },
+  "keywords": [
+    "chatbot",
+    "langchain",
+    "supabase"
+  ],
+  "author": "Bernie January Jr.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/janvierjr/LangChain/issues"
+  },
+  "homepage": "https://github.com/janvierjr/LangChain#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.38.4",
+    "langchain": "^0.0.151"
+  },
+  "type": "module"
+}
